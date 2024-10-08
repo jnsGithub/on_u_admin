@@ -1,0 +1,16 @@
+{
+  "projects": {
+    "default": "on-u-caec7"
+  },
+  "targets": {
+    "on-u-caec7": {
+      "hosting": {
+        "admin": [
+          "admin-989c6"
+        ]
+      }
+    }
+  },
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
